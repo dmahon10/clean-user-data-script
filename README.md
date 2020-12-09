@@ -3,10 +3,11 @@
 Turns this:
 | User |
 |------|
-|Dr. FirstName (nickname) MI. LastName, MBA, PhD
- * (email1@email1.com / email2@email2.com |
+|Dr. FirstName (nickname) MI. LastName, MBA, PhD * (email1@email1.com / email2@email2.com |
 
 Into this:
 
 | First Name | Last Name | Email | .com Emails | Email Host | Company Name |
 |------------|-----------|-------|-------------|------------|--------------|
+
+To use with Google Sheets, see: https://developers.google.com/apps-script/guides/sheets/functions
