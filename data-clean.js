@@ -151,7 +151,7 @@ function cleanUp(input) {
   
   
   /* -----------------------------------------
-   * For matching with first and last name, 
+   * For regex matching with first and last name, 
    * working inwards from start of data and
    * start of email address allows us to
    * avoid dealing with the inbetween
