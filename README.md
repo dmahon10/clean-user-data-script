@@ -23,7 +23,7 @@ I decided to make all the first and last names lower case. I thought this was th
 
 
 
-##Reference material:
+## Reference material:
 
 - General RegEx resource:https://www.regular-expressions.info/
 - An EXCELLENT RegEx Debugging tool:https://regex101.com/The above tool provides a quick reference and an intuitive UI that makes working with RegEx almost fun...
@@ -32,7 +32,7 @@ I decided to make all the first and last names lower case. I thought this was th
 
 
 
-###My High Level Approach to the Problem
+### My High Level Approach to the Problem
 
 When trying to clean data I always find it useful to first browse through the table. This allows me to get a sense for the shape of the data, the locations of the data I’m interested in and, most importantly, the edge-cases that might make my life difficult. When I set out to find a solution, I hope to find a solution that is robust enough to appropriately handle these edge-cases. That is often not possible, but you can usually get pretty close. 
 
